@@ -10,6 +10,7 @@ Excel dashboard project - Coffee Shop Sales
     COFFEE SHOP SALES ANALYSIS ANSWERS.pdf – A document that explains all the findings in detail.
 
 ~ What We Found
+    
     1) Sales by Time
           Most sales happen between 8 AM and 11 AM.
           Weekends (especially Saturday and Sunday) are the busiest days.
