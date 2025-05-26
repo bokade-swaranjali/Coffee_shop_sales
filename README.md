@@ -5,8 +5,11 @@ Excel dashboard project - Coffee Shop Sales analysis
     This project is about analyzing the sales data of a coffee shop to understand customer behavior, product performance, and store sales. All the work was done using Microsoft Excel and Power Query Editor to         clean, transform, and analyze the data.
 
 ~ Files in This Project
+    
     COFFEE SHOP SALES PROJECT.xlsx – The main Excel file with all the raw and processed sales data.
+    
     DASHBOARD.png – A screenshot of the final dashboard showing key insights.
+   
     COFFEE SHOP SALES ANALYSIS ANSWERS.pdf – A document that explains all the findings in detail.
 
 ~ What We Found
