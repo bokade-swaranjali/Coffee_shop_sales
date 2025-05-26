@@ -2,6 +2,7 @@
 Excel dashboard project - Coffee Shop Sales analysis
 
 ~ About This Project
+    
     This project is about analyzing the sales data of a coffee shop to understand customer behavior, product performance, and store sales. All the work was done using Microsoft Excel and Power Query Editor to         clean, transform, and analyze the data.
 
 ~ Files in This Project
@@ -34,19 +35,29 @@ Excel dashboard project - Coffee Shop Sales analysis
           Average Orders per Person: 1.44
 
 ~ Goals of This Project
+   
     Find the busiest days and times.
+   
     Identify best-selling products.
+   
     Compare sales across different store locations.
+   
     Suggest ways to increase sales using the data.
 
 ~ Tools Used
+   
     Microsoft Excel – For data analysis and dashboard creation.
+   
     Power Query Editor – For data cleaning and preparation.
 
 ~ How This Helps
+   
     Helps store owners and managers understand customer buying patterns.
+   
     Shows when to run offers or hire more staff.
+   
     Helps decide what products to promote.
+   
     Gives ideas for opening new store locations.
 
 
